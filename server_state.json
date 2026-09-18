@@ -1,1 +1,6 @@
-{}
+{
+  "Reclamation US": {
+    "mode": "Coop",
+    "players": 32
+  }
+}
