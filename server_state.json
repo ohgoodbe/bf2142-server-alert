@@ -1,6 +1,10 @@
 {
-  "Reclamation US": {
+  "Reclamation EU": {
     "mode": "Coop",
     "players": 32
+  },
+  "Reclamation US": {
+    "mode": "Coop",
+    "players": 34
   }
 }
