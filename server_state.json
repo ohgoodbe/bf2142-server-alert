@@ -1,8 +1,4 @@
 {
-  "Reclamation EU": {
-    "mode": "gpm_nv",
-    "players": 10
-  },
   "Reclamation US": {
     "mode": "Coop",
     "players": 32
