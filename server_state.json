@@ -4,7 +4,7 @@
     "players": 32
   },
   "Reclamation US": {
-    "mode": "Conquest",
+    "mode": "gpm_nv",
     "players": 13
   }
 }
