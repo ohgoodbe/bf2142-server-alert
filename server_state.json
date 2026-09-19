@@ -4,7 +4,7 @@
     "players": 32
   },
   "Reclamation US": {
-    "mode": "Coop",
-    "players": 33
+    "mode": "Conquest",
+    "players": 11
   }
 }
