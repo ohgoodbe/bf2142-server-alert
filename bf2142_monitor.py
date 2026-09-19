@@ -23,6 +23,7 @@ MODE_NAMES = {
     "gpm_coop": "Coop",
     "gpm_cp": "Conquest Point",
     "gpm_ti": "Titan",
+    "gpm_al": "Assault Lines",
 }
 
 
