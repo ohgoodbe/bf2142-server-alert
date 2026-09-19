@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       test_alert:
-        description: "Send a Discord test alert"
+        description: "Send a Discord and ntfy test alert"
         required: false
         type: boolean
         default: false
@@ -26,6 +26,7 @@ jobs:
       - name: Run BF2142 monitor
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TEST_ALERT: ${{ inputs.test_alert }}
         run: |
           python bf2142_monitor.py
