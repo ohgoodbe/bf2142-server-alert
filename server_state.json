@@ -1,8 +1,4 @@
 {
-  "Reclamation EU": {
-    "mode": "Conquest",
-    "players": 18
-  },
   "Reclamation US": {
     "mode": "Coop",
     "players": 32
